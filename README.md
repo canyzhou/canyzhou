@@ -1,4 +1,4 @@
-👋 Hi, I’m Cany Zhou. You can call me Cany. My blog is here: https://canyzhou.top/   
-✨ I’m interested in frontend web development.  
+👋 Hi, I’m Cany Zhou. working on: Loklyn.com, Lingoria.
+✨ I’m interested in AI Native Application.  
 🌱 I’m currently learning English. 
 
